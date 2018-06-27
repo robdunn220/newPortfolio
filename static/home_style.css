@@ -1,0 +1,6 @@
+.menu_div{
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
